@@ -1,2 +1,2 @@
 # crispy-garbanzo
-The community Anki decks for Data engineers UiA 2018
+The community Anki decks for first year Data engineers UiA 2018
