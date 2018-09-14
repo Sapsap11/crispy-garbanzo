@@ -1,0 +1,3 @@
+Make different categories for notes in the decks
+Make an english or a norwegian fork, and make master be exclusively the other
+Make a TFL deck
