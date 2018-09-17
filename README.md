@@ -5,4 +5,4 @@ You need Anki to use the decks, Anki can be downloaded here: https://apps.ankiwe
 
 The math deck use latex, latex can be downloaded via miktex here: https://miktex.org/howto/install-miktex
 
-Try to contact Erling or Sebastian if you require assistance
+Try to contact Erling or Sebastian if you require assistance.
